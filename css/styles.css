@@ -21,6 +21,8 @@ h1 {
 }
 
 h2 {
+    font-size: 36px;
+    font-weight: 400;
     margin-bottom: 40px;
 }
 
@@ -47,10 +49,10 @@ p.f {
     font-weight: 600;
 }
 
-.no-margin-bottom {
+h2.no-margin-bottom {
     margin-bottom: 0px;
 }
-/* Container */
+/* Containers */
 
 .container {
     width: 80%;
@@ -64,6 +66,11 @@ p.f {
     width: 100%;
     grid-template: repeat(2, 1fr) / repeat(3, 1fr);
     grid-gap: 20px 20px;
+}
+
+.text-styles-grid-container {
+    display: grid;
+    grid-template: 1fr 1fr / 1fr 1fr;
 }
 
 .grid-item {
