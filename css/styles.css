@@ -15,6 +15,11 @@ body {
     font-size: 1.8rem;
 }
 
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
 h2 {
     margin-bottom: 40px;
 }
@@ -42,7 +47,9 @@ p.f {
     font-weight: 600;
 }
 
-
+.no-margin-bottom {
+    margin-bottom: 0px;
+}
 /* Container */
 
 .container {
