@@ -1,3 +1,3 @@
 # Mira Style Guide
 
-Style guide for the project management app landing page. Includes colors, fonts, and text styles. 
+Style guide for the Mira Project Management App landing page. Includes colors, fonts, and text styles. 
